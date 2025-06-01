@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have 19 years old<br>i'm learning actually C and C++ 
+I have 19 years old
 
 
 # 💻 Tech Stack:

@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]  
+# 👋 Hello, I'm Axel  
 
 I'm a **19-year-old aspiring software developer** currently focusing on **C++ desktop application development**.  
 Passionate about coding, design, and building efficient solutions, I love exploring both **frontend and backend technologies**, as well as **creative tools** for multimedia projects.

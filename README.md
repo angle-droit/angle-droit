@@ -3,8 +3,6 @@
 I'm a **19-year-old aspiring software developer** currently focusing on **C++ desktop application development**.  
 Passionate about coding, design, and building efficient solutions, I love exploring both **frontend and backend technologies**, as well as **creative tools** for multimedia projects.
 
----
-
 ## 💻 Tech Stack
 
 ### Programming & Development
@@ -25,29 +23,19 @@ Passionate about coding, design, and building efficient solutions, I love explor
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)
 
----
-
 ## 📊 GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=angle-droit&theme=dark&include_all_commits=true&count_private=true)<br/>
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=angle-droit&theme=dark)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angle-droit&theme=dark&include_all_commits=true&count_private=true&layout=compact)
 
----
-
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=angle-droit&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
----
-
 ## 📈 Visitors Count
 [![Visitor Count]<p align="left"> <img src="https://komarev.com/ghpvc/?username=angle-droit&label=Profile%20views&color=0e75b6&style=flat" alt="angle-droit" /> </p>
-
----
 
 ### 🔗 Connect with Me
 - **Youtube:** [Axel](https://www.youtube.com/@alextoutcourt72)
 - **Tiktok:** [Axel](https://www.tiktok.com/@winrar53)
-
----

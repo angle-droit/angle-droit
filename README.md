@@ -34,8 +34,4 @@ Passionate about coding, design, and building efficient solutions, I love explor
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=angle-droit&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ## 📈 Visitors Count
-[![Visitor Count]<p align="left"> <img src="https://komarev.com/ghpvc/?username=angle-droit&label=Profile%20views&color=0e75b6&style=flat" alt="angle-droit" /> </p>
-
-### 🔗 Connect with Me
-- **Youtube:** [Axel](https://www.youtube.com/@alextoutcourt72)
-- **Tiktok:** [Axel](https://www.tiktok.com/@winrar53)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=angle-droit&label=Profile%20views&color=0e75b6&style=flat" alt="angle-droit" /> </p>

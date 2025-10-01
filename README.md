@@ -12,7 +12,6 @@ Passionate about coding, design, and building efficient solutions, I love explor
 ### Databases & Backend
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Apache Cassandra](https://img.shields.io/badge/cassandra-%231287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Design & Multimedia

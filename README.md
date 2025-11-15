@@ -9,14 +9,13 @@ Passionate about coding, design, and building efficient solutions, I love explor
 
 
 ### Programming & Development
-<img src="https://skillicons.dev/icons?i=java,py,cpp,bots" />
-
+<img src="https://skillicons.dev/icons?i=java,py" />
 
 ### Programming software
 <img src="https://skillicons.dev/icons?i=eclipse,vscode" />
 
 ### Working tool
-<img src="https://skillicons.dev/icons?i=linux,docker,debian" />
+<img src="https://skillicons.dev/icons?i=linux,docker,debian,alpine" />
 
 ### Databases & Backend
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />

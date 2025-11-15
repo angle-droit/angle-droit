@@ -7,27 +7,22 @@ Passionate about coding, design, and building efficient solutions, I love explor
 
 ## 💻 Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,cpp" />
-  </a>
-</p>
+
+### Programming & Development
+<img src="https://skillicons.dev/icons?i=java,py,cpp,bots" />
+
+
+### Programming software
+<img src="https://skillicons.dev/icons?i=eclipse,vscode" />
+
+### Working tool
+<img src="https://skillicons.dev/icons?i=linux,docker,debian" />
 
 ### Databases & Backend
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
 ### Design & Multimedia
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,pr,ps" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=ae,pr,ps" />
 
 ---
 

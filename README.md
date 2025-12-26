@@ -9,7 +9,7 @@ Passionate about coding, design, and building efficient solutions, I love explor
 
 
 ### Programming & Development
-<img src="https://skillicons.dev/icons?i=java,py" />
+<img src="https://skillicons.dev/icons?i=java,py,cpp" />
 
 ### Programming software
 <img src="https://skillicons.dev/icons?i=eclipse,vscode" />

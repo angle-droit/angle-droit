@@ -9,10 +9,10 @@ Passionate about coding, design, and building efficient solutions, I love explor
 
 
 ### Programming & Development
-<img src="https://skillicons.dev/icons?i=java,py,cpp" />
+<img src="https://skillicons.dev/icons?i=java,py,cpp,qt" />
 
 ### Programming software
-<img src="https://skillicons.dev/icons?i=eclipse,vscode" />
+<img src="https://skillicons.dev/icons?i=eclipse,vscode,clion,idea" />
 
 ### Working tool
 <img src="https://skillicons.dev/icons?i=linux,docker,debian,alpine" />
@@ -29,7 +29,7 @@ Passionate about coding, design, and building efficient solutions, I love explor
 
 <div align="center">
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=angle-droit&theme=dark&include_all_commits=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=angle-droit&theme=dark&hide_border=true&hide_total_contributions=true)](https://git.io/streak-stats)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=angle-droit&theme=dark)
 
